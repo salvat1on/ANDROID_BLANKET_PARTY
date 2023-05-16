@@ -105,7 +105,6 @@ DELAY 1500
 TAB
 DELAY 100
 ENTER
-DELAY 300
 REM # From here the warning screen is exploited by simply waiting
 REM # 45 seconds so the device will sleep and the warning times out. 
 REM # When the device wakes up the apk is installed (Step 4: Wiggle your big toe)
