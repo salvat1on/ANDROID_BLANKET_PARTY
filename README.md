@@ -21,3 +21,6 @@ The APK payloads rely on a bug I found and will be reporting soon, within the AP
 
 [![IMAGE ALT TEXT HERE](https://i.ibb.co/Yh2D6Vt/swipe.png)](https://youtu.be/Hon9YmdVehQ)
 
+[PIN CRACKER DEMO]
+
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/gJKgg6b/pin-crack.png)](https://youtube.com/shorts/jV1f7E00P_g)
