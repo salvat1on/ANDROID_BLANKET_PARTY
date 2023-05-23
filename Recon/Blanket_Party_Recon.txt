@@ -6,7 +6,7 @@ REM # screenshots of text logs, 5 screenshots of the browser history,
 REM # one screenshot of notifications, one screenshot of current email,
 REM # and 1 screenshot of the last number called. Then move all 
 REM # screenshots to the ducky storage. Once the pin is cracked press the
-REM # ducky button once to start stage 2 of the payload ( gathering contacts) 
+REM # ducky button once to start stage 2 of the payload ( gathering INTEL) 
 REM # If you would like to add more pin guesses and pin randomization consider 
 REM # replacing the bottom of this script with my "pin-crack" attack. This
 REM # script is intended to give you 5 attempts with pins you have gathered
